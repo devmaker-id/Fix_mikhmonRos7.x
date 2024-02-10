@@ -1,6 +1,6 @@
 # Fix_mikhmonRos7.x
 
-jika anda menggunakan local server
+jika anda menggunakan local server\n
 [mikhmon/hotspot]
 jika anda menggunakan cloud/hosting
 [hotspot]
